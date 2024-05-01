@@ -6,7 +6,7 @@ Project Title: Customer Lifetime Value Prediction Using Transactional Data
 •	Language and Libraries Used: Python 3, Pandas, Lifetimes, Matplotlib, Seaborn.
 
 2. Data Collection and Preprocessing:
-•	Data Source: Online retail dataset obtained from [source].
+•	Data Source: Online retail dataset obtained from .
 •	Steps:
 •	Data imported using Pandas.
 •	Date format standardized.
